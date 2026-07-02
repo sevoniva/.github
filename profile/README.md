@@ -71,9 +71,11 @@ Browse: [fork](https://github.com/orgs/sevoniva/repositories?q=topic%3Afork)
 - [sevoniva.github.io](https://github.com/sevoniva/sevoniva.github.io) - Public documentation site for Sevoniva products and projects.
 - [apidocs](https://github.com/sevoniva/apidocs) - API documentation for Sevoniva products and services.
 - [sevoniva.com](https://sevoniva.com) - Public website.
+- [Roadmap](https://github.com/sevoniva/.github/blob/main/ROADMAP.md) - Public project directions.
 - [Support](https://github.com/sevoniva/.github/blob/main/SUPPORT.md) - Where to ask questions or report project issues.
 - [Security](https://github.com/sevoniva/.github/blob/main/SECURITY.md) - How to report security issues privately.
 - [Contributing](https://github.com/sevoniva/.github/blob/main/CONTRIBUTING.md) - Contribution and pull request guidelines.
+- [Code of Conduct](https://github.com/sevoniva/.github/blob/main/CODE_OF_CONDUCT.md) - Collaboration rules for public project spaces.
 
 Browse: [documentation](https://github.com/orgs/sevoniva/repositories?q=topic%3Adocumentation) · [api-docs](https://github.com/orgs/sevoniva/repositories?q=topic%3Aapi-docs)
 
@@ -154,9 +156,11 @@ Sevoniva 是一个公开项目目录，聚合数据平台与工程工具相关�
 - [sevoniva.github.io](https://github.com/sevoniva/sevoniva.github.io) - Sevoniva 产品和项目的公开文档站。
 - [apidocs](https://github.com/sevoniva/apidocs) - Sevoniva 产品和服务的 API 文档。
 - [sevoniva.com](https://sevoniva.com) - 官网。
+- [Roadmap](https://github.com/sevoniva/.github/blob/main/ROADMAP.md) - 公开项目方向。
 - [Support](https://github.com/sevoniva/.github/blob/main/SUPPORT.md) - 问题咨询和项目 issue 入口说明。
 - [Security](https://github.com/sevoniva/.github/blob/main/SECURITY.md) - 安全问题私密报告方式。
 - [Contributing](https://github.com/sevoniva/.github/blob/main/CONTRIBUTING.md) - 贡献与 pull request 规范。
+- [Code of Conduct](https://github.com/sevoniva/.github/blob/main/CODE_OF_CONDUCT.md) - 公开项目协作规则。
 
 浏览： [documentation](https://github.com/orgs/sevoniva/repositories?q=topic%3Adocumentation) · [api-docs](https://github.com/orgs/sevoniva/repositories?q=topic%3Aapi-docs)
 
