@@ -82,6 +82,8 @@ Browse: [documentation](https://github.com/orgs/sevoniva/repositories?q=topic%3A
 | Name | GitHub | Location | Role |
 | --- | --- | --- | --- |
 | [Carson](https://github.com/iscarson) | [@iscarson](https://github.com/iscarson) | Shanghai, China | Founder and maintainer of [Sevoniva](https://github.com/sevoniva). |
+| [hannshusei](https://github.com/hannshusei) | [@hannshusei](https://github.com/hannshusei) | Not listed | Maintainer and developer. |
+| [callum](https://github.com/liangml) | [@liangml](https://github.com/liangml) | Not listed | Maintainer and developer. |
 
 ## 中文
 
@@ -163,3 +165,5 @@ Sevoniva 是一个公开项目目录，聚合数据平台与工程工具相关�
 | 姓名 | GitHub | 地点 | 角色 |
 | --- | --- | --- | --- |
 | [Carson](https://github.com/iscarson) | [@iscarson](https://github.com/iscarson) | Shanghai, China | [Sevoniva](https://github.com/sevoniva) 创始人与维护者。 |
+| [hannshusei](https://github.com/hannshusei) | [@hannshusei](https://github.com/hannshusei) | 未公开 | 维护者与开发者。 |
+| [callum](https://github.com/liangml) | [@liangml](https://github.com/liangml) | 未公开 | 维护者与开发者。 |
