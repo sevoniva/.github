@@ -71,12 +71,17 @@ Browse: [fork](https://github.com/orgs/sevoniva/repositories?q=topic%3Afork)
 - [sevoniva.github.io](https://github.com/sevoniva/sevoniva.github.io) - Public documentation site for Sevoniva products and projects.
 - [apidocs](https://github.com/sevoniva/apidocs) - API documentation for Sevoniva products and services.
 - [sevoniva.com](https://sevoniva.com) - Public website.
+- [Support](https://github.com/sevoniva/.github/blob/main/SUPPORT.md) - Where to ask questions or report project issues.
+- [Security](https://github.com/sevoniva/.github/blob/main/SECURITY.md) - How to report security issues privately.
+- [Contributing](https://github.com/sevoniva/.github/blob/main/CONTRIBUTING.md) - Contribution and pull request guidelines.
 
 Browse: [documentation](https://github.com/orgs/sevoniva/repositories?q=topic%3Adocumentation) · [api-docs](https://github.com/orgs/sevoniva/repositories?q=topic%3Aapi-docs)
 
 ### People
 
-- [Carson](https://github.com/iscarson) - Founder and maintainer of Sevoniva.
+| Name | GitHub | Location | Role |
+| --- | --- | --- | --- |
+| [Carson](https://github.com/iscarson) | [@iscarson](https://github.com/iscarson) | Shanghai, China | Founder and maintainer of [Sevoniva](https://github.com/sevoniva). |
 
 ## 中文
 
@@ -147,9 +152,14 @@ Sevoniva 是一个公开项目目录，聚合数据平台与工程工具相关�
 - [sevoniva.github.io](https://github.com/sevoniva/sevoniva.github.io) - Sevoniva 产品和项目的公开文档站。
 - [apidocs](https://github.com/sevoniva/apidocs) - Sevoniva 产品和服务的 API 文档。
 - [sevoniva.com](https://sevoniva.com) - 官网。
+- [Support](https://github.com/sevoniva/.github/blob/main/SUPPORT.md) - 问题咨询和项目 issue 入口说明。
+- [Security](https://github.com/sevoniva/.github/blob/main/SECURITY.md) - 安全问题私密报告方式。
+- [Contributing](https://github.com/sevoniva/.github/blob/main/CONTRIBUTING.md) - 贡献与 pull request 规范。
 
 浏览： [documentation](https://github.com/orgs/sevoniva/repositories?q=topic%3Adocumentation) · [api-docs](https://github.com/orgs/sevoniva/repositories?q=topic%3Aapi-docs)
 
 ### 人员
 
-- [Carson](https://github.com/iscarson) - Sevoniva 创始人与维护者。
+| 姓名 | GitHub | 地点 | 角色 |
+| --- | --- | --- | --- |
+| [Carson](https://github.com/iscarson) | [@iscarson](https://github.com/iscarson) | Shanghai, China | [Sevoniva](https://github.com/sevoniva) 创始人与维护者。 |

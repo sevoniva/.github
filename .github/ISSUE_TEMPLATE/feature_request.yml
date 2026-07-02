@@ -1,0 +1,32 @@
+name: Feature request
+description: Propose a focused improvement for a Sevoniva project.
+title: "[Feature]: "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository
+      description: Which repository should own this feature?
+      placeholder: "sevoniva/oceanbase-mcp"
+    validations:
+      required: true
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: What problem should this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Describe the smallest useful version of the feature.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Existing workaround or related tools, if any.
+

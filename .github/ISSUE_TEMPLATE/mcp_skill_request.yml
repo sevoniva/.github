@@ -1,0 +1,33 @@
+name: MCP or skill request
+description: Request a new MCP integration, Codex skill, or automation workflow.
+title: "[MCP/Skill]: "
+body:
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      options:
+        - MCP server or integration
+        - Codex skill
+        - Automation workflow
+        - Other developer tool
+    validations:
+      required: true
+  - type: textarea
+    id: workflow
+    attributes:
+      label: Workflow
+      description: What should the MCP server, skill, or automation help with?
+    validations:
+      required: true
+  - type: textarea
+    id: inputs_outputs
+    attributes:
+      label: Inputs and outputs
+      description: What inputs are available, and what output should be produced?
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Security, network, database, runtime, or deployment constraints.
+

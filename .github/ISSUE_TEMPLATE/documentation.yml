@@ -1,0 +1,25 @@
+name: Documentation issue
+description: Report missing, unclear, or outdated documentation.
+title: "[Docs]: "
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Repository or page
+      description: Which repository, page, or document needs work?
+      placeholder: "sevoniva/apidocs"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Documentation issue
+      description: What is missing, unclear, or incorrect?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested change
+      description: Optional wording, examples, or links that would help.
+
